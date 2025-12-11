@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from langchain_openai import ChatOpenAI
-from config import OPEN_AI_API_KEY
+
+OPEN_AI_API_KEY = test
 
 app = Flask(__name__)
 # CORS 설정 - React 개발 서버(localhost:3000)에서의 요청 허용
