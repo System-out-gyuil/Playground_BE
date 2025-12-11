@@ -1,6 +1,7 @@
 {
-    "name": "my-flask-worker",
+    "name": "my-python-worker",
     "main": "src/app.py",
-    "compatibility_date": "2025-12-11"
+    "compatibility_date": "2025-12-11",
+    "compatibility_flags": ["python_workers"]
   }
   
