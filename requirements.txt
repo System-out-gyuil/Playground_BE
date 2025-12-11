@@ -1,0 +1,8 @@
+Flask==3.0.0
+flask-cors==4.0.0
+
+# LangChain open ai
+langchain-core==0.3.56
+langchain-openai==0.2.1
+openai==1.75.0
+opencv-contrib-python==4.11.0.86
